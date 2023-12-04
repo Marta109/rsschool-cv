@@ -19,7 +19,7 @@
 
 ---
 
-## Red School Education
+## The Rolling Scopes School
 
 - **JavaScript/Front-end. Stage 1**
 
