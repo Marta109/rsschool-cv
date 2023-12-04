@@ -42,7 +42,7 @@
 ---
 
 ## Additional Information
-
+---
 ## About Me
 
 I am calm and energetic individual, I love exploring new technologies and applying them to my tasks. I find joy in the learning process, and I excel at it. In the world of web development, I am a beginner, but I am learning, creating my own projects, and enjoying every step in this exciting journey.
